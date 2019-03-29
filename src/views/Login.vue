@@ -6,6 +6,9 @@
     <div>
       <input type="password">
     </div>
+    <div>
+      <input type="button" value="login">
+    </div>
   </div>
 </template>
 
